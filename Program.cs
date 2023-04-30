@@ -9,9 +9,9 @@ namespace dev
 
         static void Main(string[] args)
         {
+            
             Menu();
-
-
+            
         }
         static void Menu()
         {
