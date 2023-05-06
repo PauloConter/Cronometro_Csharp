@@ -13,7 +13,7 @@ namespace dev
             Menu();
             
         }
-        static void Menu()
+        static void Menu() 
         {
             Console.Clear();
             Console.WriteLine("S = Segundo => 10s = 10 Segundos");
