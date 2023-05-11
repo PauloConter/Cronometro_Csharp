@@ -16,7 +16,7 @@ namespace dev
         static void Menu() 
         {
             Console.Clear();
-            Console.WriteLine("S = Segundo => 10s = 10 Segundos");
+            Console.WriteLine("S = Segundo => 10s = 10 Segundos"); 
             Console.WriteLine("M = Minuto => 1m = 1 Minuto");
             Console.WriteLine("N =Sair");
             Console.WriteLine("Quanto tempo deseja contar?");
